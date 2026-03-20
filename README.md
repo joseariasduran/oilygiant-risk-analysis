@@ -47,4 +47,4 @@ El algoritmo logró un desempeño excepcional en la **Región 1**, alcanzando un
 
 ---
 **Autor:** José Arias Durán  
-**Contacto:** [LinkedIn] | [GitHub](https://github.com/joseariasduran)
+**Contacto:** [LinkedIn](www.linkedin.com/in/joseariasduran) | [GitHub](https://github.com/joseariasduran)
