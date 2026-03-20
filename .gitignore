@@ -1,0 +1,8 @@
+# Ignorar datos
+data/
+*.csv
+
+# Ignorar archivos de sistema y Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
